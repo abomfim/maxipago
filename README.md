@@ -1,3 +1,3 @@
-#SDK MaxiPago Laravel
+**SDK MaxiPago Laravel**
 
 Forked from kristiantenfen/maxipago
